@@ -30,7 +30,7 @@ Update the .env file with your GROQ_API_KEY
 
 ### Run Hello Groq
 
-`python hello_groq.py`
+`python main.py`
 
 
 
