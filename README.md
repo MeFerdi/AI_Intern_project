@@ -32,5 +32,7 @@ Update the .env file with your GROQ_API_KEY
 
 `python main.py`
 
+`external.ink?to=https://www.pexels.com/photo/bionic-hand-and-human-hand-finger-pointing-6153354/`
+
 
 
